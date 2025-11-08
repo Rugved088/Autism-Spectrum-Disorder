@@ -25,7 +25,7 @@ This project automates the detection of Autism Spectrum Disorder (ASD) from faci
 
 ```bash
 git clone https://github.com/Rugved088/Autism-Spectrum-Disorder.git
-cd https://github.com/Rugved088/Autism-Spectrum-Disorder.git
+cd Autism-Spectrum-Disorder
 ```
 
 ### 2. Create and Activate Virtual Environment
