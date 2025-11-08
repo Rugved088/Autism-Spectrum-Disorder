@@ -24,8 +24,8 @@ This project automates the detection of Autism Spectrum Disorder (ASD) from faci
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/autism-diagnosis.git
-cd autism-diagnosis
+git clone https://github.com/Rugved088/Autism-Spectrum-Disorder.git
+cd https://github.com/Rugved088/Autism-Spectrum-Disorder.git
 ```
 
 ### 2. Create and Activate Virtual Environment
